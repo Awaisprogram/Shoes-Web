@@ -120,7 +120,7 @@ section{
 
 .header .search-form{
     position: absolute;
-    top: 115%; right: -105%;
+    top: 115%; right: -150%;
     width: 50rem;
     height: 5.5rem;
     background: #fff;
